@@ -1,0 +1,5 @@
+{
+  "name": "Haq Mehr Calculator",
+  "description": "Real-time calculation of minimum Haq Mehr (Fiqh Hanafi) based on live silver prices and currency exchange rates.",
+  "requestFramePermissions": []
+}
